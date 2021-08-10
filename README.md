@@ -11,5 +11,5 @@ pip install pyqt5
 ```
 
 # Screenshots
-![Server Screenshot](chatserver-python/screenshots/screenshot3.png)
+![Server Screenshot](/screenshots/screenshot3.png)
 
