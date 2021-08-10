@@ -1,1 +1,1 @@
-# chatserver-python
+# Python Chat Server and Client
