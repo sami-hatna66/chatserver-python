@@ -67,9 +67,6 @@ class MainWindow(QMainWindow):
         self.CentralWidget = QWidget()
         self.setCentralWidget(self.CentralWidget)
 
-        # Effect = QGraphicsBlurEffect()
-        # self.CentralWidget.setGraphicsEffect(Effect)
-
         self.Layout = QVBoxLayout()
         self.CentralWidget.setLayout(self.Layout)
 
@@ -114,9 +111,6 @@ class MainWindow(QMainWindow):
             Data = open(self.FileName, "rb")
             Size = os.path.getsize(self.FileName)
             self.Socket.sendall(bytes("5225735416403254703757706248547980413931 " + str(Size) + " " + os.path.splitext(self.FileName)[1], "UTF-8"))
-            # for x in range(0, math.ceil(Size/500000)):
-            #     Temp = Data[x*500000:(x+1)*500000]
-            #     self.Socket.sendall(Temp)
             while True:
                 ReadBytes = Data.read(500000)
                 if not ReadBytes:
