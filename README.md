@@ -12,4 +12,6 @@ pip install pyqt5
 
 # Screenshots
 ![Server Screenshot](/screenshots/screenshot3.png)
+![Client Screenshot](/screenshots/screenshot2.png)
+![Client Screenshot](/screenshots/screenshot1.png)
 
