@@ -11,7 +11,7 @@ pip install pyqt5
 ```
 
 # Screenshots
-<img src="/screenshots/screenshot3.png" width="710" />
+<img src="/screenshots/screenshot3.png" width="705" />
 
 <p float="left">
   <img src="/screenshots/screenshot2.png" width="350" />
