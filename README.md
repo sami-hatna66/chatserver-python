@@ -2,7 +2,7 @@
 
 A simple client-server messaging application which supports sending text messages and images. The backend is programmed using Python's sockets library and the frontend was made in PyQt.
 
-# Installation
+## Installation
 
 Use pip to install PyQt5 on the machine running the client
 
@@ -10,7 +10,7 @@ Use pip to install PyQt5 on the machine running the client
 pip install pyqt5
 ```
 
-# Screenshots
+## Screenshots
 <img src="/screenshots/screenshot3.png" width="705" />
 
 <p float="left">
