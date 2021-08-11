@@ -14,8 +14,8 @@ pip install pyqt5
 ![Server Screenshot](/screenshots/screenshot3.png)
 
 <p float="left">
-  <img src="/screenshots/screenshot2.png" width="100" />
-  <img src="/screenshots/screenshot1.png" width="100" /> 
+  <img src="/screenshots/screenshot2.png" width="300" />
+  <img src="/screenshots/screenshot1.png" width="300" /> 
 </p>
 
 
